@@ -1,1 +1,11 @@
-I am a highly motivated and detail-oriented **cybersecurity researcher** specializing in **penetration testing, digital forensics, and software-defined radio (SDR) security**. I actively identify and mitigate vulnerabilities, leveraging tools like **Burp Suite, The Sleuth Kit (TSK), and Autopsy** to enhance security and data integrity. Committed to **protecting organizations and individuals**, I adhere to ethical cybersecurity practices while developing **open-source security solutions**. My expertise in **ethical hacking, forensic analysis, and emerging technologies** enables me to contribute to **proactive threat mitigation and security innovation**, ensuring the confidentiality, integrity, and availability of critical assets.
+I am a highly motivated and detail-oriented cybersecurity researcher .
+I am specializing in penetration testing, digital forensics, and software-defined radio (SDR) security .
+I am skilled in doing Recon e.g i can do Osint on organization and can also perform background checks for a given person .
+I am skilled in Web security , leveraging tools like Burp Suite can do manual testing as well as automatic testing using tools like Nuclei , Nikto and Nessus . 
+I can use The Sleuth Kit (TSK), Autopsy, EaseUs , Fmem , Hex editor , Hashdump for digital forensics .
+I can perform Security Audits using NIST Cybersecurity Framework (CSF) .
+I can use SIEM Tools like Splunk and Centinel by Microsoft .
+I can understand Code written in C++ , Bash , javscript , Html , Css and SQL .
+I have deep understanding of operating systems and parrallel and concurrent processors . 
+I make my own automation scripts for bug bounty recon .
+I am always seeking for more and more knowledge according to my domain . 
